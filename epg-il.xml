@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?> TEST
+<?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
 <channel id="E ערוץ הבידור.il"><display-name>E ערוץ הבידור.il</display-name></channel>
 <channel id="Eurosport.il"><display-name>Eurosport.il</display-name></channel>
@@ -2523,4 +2523,5 @@
 <programme start="20251111122500 +0000" stop="20251111125100 +0000" channel="ערוץ ניקלודיאון.il"><title>הרעשנים 9, חדש! פרק 13</title><desc>משפחת רעש וקלייד מגיעים לקיץ מלא כיף במחנה מסטודון, אך לינקולן וקלייד מוצאים את עצמם במהרה בקרב נגד הקבוצה הקשוחה ביותר במחנה. כ עב. (שח)</desc></programme>
 <programme start="20251111125100 +0000" stop="20251111131500 +0000" channel="ערוץ ניקלודיאון.il"><title>קסם של הורים משאלה חדשה, חדש! פרק 15</title><desc>יריבה מהעבר מתחזה לנסיכת מסיבות וחוטפת את מסיבת יום ההולדת של דב. הייזל מתכננת מרד, והפיות נתקלות בחדר סודי ומוזר.כ עב. (שח)</desc></programme>
 </tv>
+
 
